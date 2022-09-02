@@ -1,0 +1,26 @@
+---
+# Размеры окна приложения
+window_width: 640
+window_height: 360
+
+# Изначальное положение окна приложения при открытии
+app_x_pos: 200
+app_y_pos: 100
+
+# Номер скриншота
+screen_number: 1
+
+# Доп. информация
+h_title: Техподдержка
+
+h_l_title: По вопросам 1С
+h_lbl1: Роман
+h_lbl1_number: 959
+h_lbl2: Андрей
+h_lbl2_number: 953
+h_lbl3: Михаил
+h_lbl3_number: 954
+
+h_l_title2: Системный администратор
+h_lbl4: Дмитрий
+h_lbl4_number: 950
